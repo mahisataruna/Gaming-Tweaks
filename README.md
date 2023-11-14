@@ -15,4 +15,4 @@
 
 ## Changelog
 
-- Check out whats new [Here](https://github.com/mahisataruna/Gaming-Tweaks/CHANGELOG.md)
+- Check out whats new [Here](https://github.com/mahisataruna/Gaming-Tweaks/blob/Beta.1.0/CHANGELOG.md)

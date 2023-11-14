@@ -1,3 +1,34 @@
 # This file will be read by resetprop
-# Example: Change dpi
+# Change dpi
 # ro.sf.lcd_density=320
+
+# Fake Model
+ro.product.model=IN2023
+ro.product.brand=OnePlus 
+
+# System Properties
+cpu.fps=auto 
+gpu.fps=auto 
+
+# Force Developer Option
+persist.service.adb.enable=1
+persist.service.debuggable=1
+persist.sys.usb.config=mtp,adb
+
+# GPU Tweaks 
+rs.gpu.renderscript=0
+debug.composition.type=opengl
+debug.hwui.renderer=opengl
+
+# RAM Tweaks
+persist.sys.purgeable_assets=1
+persist.service.pcsync.enable=0
+persist.service.lgospd.enable=0
+
+# Qualcomm Tweaks
+com.qc.hardware=1
+debug.qc.hardware=true
+debug.qctwa.preservebuf=1
+debug.qctwa.statusbar=1
+
+
